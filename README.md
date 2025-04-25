@@ -1,0 +1,2 @@
+# URLPrivacyCleaner
+Simple privacy tool
