@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Mezaak/URLPrivacyCleaner" target="_blank">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/Mezaak/URLPrivacyCleaner/refs/heads/main/urlcleaner/og-image.png" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -31,7 +31,7 @@
 
 
 
-![Screen Shot](https://raw.githubusercontent.com/Mezaak/Chrome-Extension-Project/main/screenshot.png)
+![Screen Shot](https://raw.githubusercontent.com/Mezaak/URLPrivacyCleaner/refs/heads/main/demo-image.png)
 
 This project builded for cleaning unnecessary parts in social media sharing urls.
 
