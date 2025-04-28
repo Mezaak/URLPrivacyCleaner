@@ -34,6 +34,7 @@
 ![Screen Shot](https://raw.githubusercontent.com/Mezaak/URLPrivacyCleaner/refs/heads/main/demo-image.png)
 
 This project builded for cleaning unnecessary parts in social media sharing urls.
+https://privacyurlcleaner.netlify.app/
 
 
 ## Built With
